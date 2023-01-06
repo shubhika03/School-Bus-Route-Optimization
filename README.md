@@ -8,7 +8,7 @@ This repository contains code for constrained school bus route optimization prob
 5. Minimum percentage occupancy of that each bus should have
 6. Time window for each bus within with it should start and end its journey
 
-<img src = "./teaser.png">
+<img src = "./teaser.PNG">
 
 Our solution approach consist of 3 steps as followed:
 1. Selecting bus stops from all possible bus stops in the region by DBSCAN clustering based algorithm
